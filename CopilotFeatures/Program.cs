@@ -1,10 +1,8 @@
 ﻿Console.WriteLine("I'm Roashan ");
 Console.WriteLine("I'm Ranjana");
-<<<<<<< HEAD
 Console.WriteLine("I'm Poornima");
-=======
 Console.WriteLine("I'm Janani");
->>>>>>> 820c4981672b9c623349f8df792e9e2aeaaebc10
+
 
 
 int[] numbers = [12, 7, 25, 18, 9];
