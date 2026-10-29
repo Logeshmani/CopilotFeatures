@@ -1,7 +1,8 @@
-﻿Console.WriteLine("Welcome to KIOT Sample Github Project");
+﻿Console.WriteLine("I'm Roashan ");
+Console.WriteLine("I'm Ranjana");
 
 
-int[] numbers   = { 12, 7, 25, 18, 9 };
+int[] numbers = [12, 7, 25, 18, 9];
 
 int[] ranked = numbers.Distinct().OrderDescending().ToArray();
 Console.WriteLine("Hi sir  Im Ameer!!!");
