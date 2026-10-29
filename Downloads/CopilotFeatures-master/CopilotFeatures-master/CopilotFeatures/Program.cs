@@ -12,7 +12,7 @@ Console.WriteLine("I'm Subbalakshmi");
 Console.WriteLine("I'm MahaLakshmi");
 Console.WriteLine("I'm DharshiniGanesa");
 Console.WriteLine("I'm Kesika");
-Console.WriteLine("I'm Dharshini");
+Console.WriteLine("I'm Dharshini Saravanan");
 int[] numbers = [12, 7, 25, 18, 9];
 
 int[] ranked = numbers.Distinct().OrderDescending().ToArray();
