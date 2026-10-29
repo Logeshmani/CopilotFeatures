@@ -12,18 +12,18 @@ Console.WriteLine("I'm Subbalakshmi");
 Console.WriteLine("I'm MahaLakshmi");
 Console.WriteLine("I'm DharshiniGanesa");
 Console.WriteLine("I'm Kesika");
+Console.WriteLine("I'm Harini");
 
 Console.WriteLine("Kiot");
 
 
 int[] numbers = [12, 7, 25, 18, 9];
 int[] ranked = numbers.Distinct().OrderDescending().ToArray();
-<<<<<<< HEAD
-=======
+
 Console.WriteLine("Hi sir  Im Ameer!!!");
 Console.WriteLine("Hi sir  Im Aruna!!!");
 
->>>>>>> 3a7670a63a5bbe8fa409c87ed3d73bff8ced3d71
+
 if (ranked.Length >= 2)
     Console.WriteLine($"Second largest: {ranked[1]}");
 else
